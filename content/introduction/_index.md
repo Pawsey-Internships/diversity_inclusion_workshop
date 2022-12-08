@@ -1,13 +1,19 @@
 +++
-title = "Introduction"
+title = "Setting the scene"
 date = 2022-12-08T10:42:40+11:00
 weight = 5
 chapter = true
-pre = "<b>X. </b>"
+pre = "<b>1. </b>"
 +++
 
 ### Chapter 1
 
-# Some introductory stuffs
+# Setting the scene
 
-Stuffs goes here
+### Our approach to the workshop
+
+###	What do we mean by Bias, Diversity & Inclusion?
+
+### How do these appear in our work and in our workplace?
+
+### 
