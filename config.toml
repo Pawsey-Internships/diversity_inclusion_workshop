@@ -11,6 +11,7 @@ home = [ "HTML", "RSS", "JSON"]
 [params]
 # Change default color scheme with a variant one. Can be "red", "blue", "green".
 themeVariant = "green"
+disableLandingPageButton = true
 
 # Author of the site, will be used in meta information
 author = "Pawsey Intern Mentors 2022 (Edric Matwiejew, Emily Kerrison and David Adams)"

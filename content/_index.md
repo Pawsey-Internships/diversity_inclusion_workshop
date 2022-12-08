@@ -2,7 +2,6 @@
 title: "Diversity & Inclusion Workshop (title TBD)"
 date: 2022-12-08T10:54:28+11:00
 draft: false
-aliases: [/content]
 ---
 
 # D&I title (TBD)
