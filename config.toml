@@ -1,0 +1,16 @@
+baseURL = "https://Pawsey-Internships.github.io/diversity_inclusion_workshop" 
+languageCode = 'en-us'
+title = 'Diversity & Inclusion in Science (better title TBD)'
+theme = "hugo-theme-learn"
+
+# For search functionality (added by as per instructions for the learn theme)
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
+# customisation
+[params]
+# Change default color scheme with a variant one. Can be "red", "blue", "green".
+themeVariant = "green"
+
+# Author of the site, will be used in meta information
+author = "Pawsey Intern Mentors 2022 (Edric Matwiejew, Emily Kerrison and David Adams)"
