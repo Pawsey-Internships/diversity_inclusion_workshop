@@ -1,5 +1,19 @@
 [
 {
+	"uri": "https://Pawsey-Internships.github.io/diversity_inclusion_workshop/activity-2/",
+	"title": "Activity 2",
+	"tags": [],
+	"description": "",
+	"content": "Chapter X Some Chapter title Lorem Ipsum.\n"
+},
+{
+	"uri": "https://Pawsey-Internships.github.io/diversity_inclusion_workshop/activity-1/summary/",
+	"title": "Summary",
+	"tags": [],
+	"description": "",
+	"content": "Chapter X Some Chapter title Lorem Ipsum.\n"
+},
+{
 	"uri": "https://Pawsey-Internships.github.io/diversity_inclusion_workshop/introduction/participation_requests/",
 	"title": "Approaching the workshop",
 	"tags": [],
@@ -22,7 +36,7 @@
 },
 {
 	"uri": "https://Pawsey-Internships.github.io/diversity_inclusion_workshop/activity-1/",
-	"title": "Activity 1",
+	"title": "Standing Up, Standing Out",
 	"tags": [],
 	"description": "",
 	"content": "Chapter 2 Activity 1 - Standing up, standing out "
@@ -53,7 +67,7 @@
 	"title": "Workshop Overview",
 	"tags": [],
 	"description": "",
-	"content": "Workshop Overview Include a summary here once we have a clear idea of workshop structure.\nAlso include key takeaways.\nThe last version of the slides had these:\nWe learn and interact with each-other using tools that are unavoidably biased. Overlooked biases can harm individuals and undermine our goals. We can avoid unhelpful bias through diversity and inclusion. "
+	"content": "Workshop Overview Include a summary here once we have a clear idea of workshop structure.\nAll human interactions and observations are unavoidably biased. Biases can be helpful or unhelpful, but we cannot make that judgement without first identifying and understanding them. The more diversity you see around you the more your horizons expand in your work and your understanding "
 },
 {
 	"uri": "https://Pawsey-Internships.github.io/diversity_inclusion_workshop/",
