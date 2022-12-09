@@ -13,5 +13,5 @@ pre = "<b>b. </b>"
 **Diversity** can refer to the mix of people in an organisation, or datapoints in your sample.
 
 **Inclusion** is the outcome of behaviours promiting an environment where diverse people (or
-or data points) can thrive. In an organisation, maximising inclusion also improves overall 
+data points) can thrive. In an organisation, maximising inclusion also improves overall 
 *performance* and *wellbeing*. **Insert source?**
