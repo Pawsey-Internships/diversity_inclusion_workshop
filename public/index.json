@@ -1,19 +1,5 @@
 [
 {
-	"uri": "https://Pawsey-Internships.github.io/diversity_inclusion_workshop/activity-2/",
-	"title": "Activity 2",
-	"tags": [],
-	"description": "",
-	"content": "Chapter X Some Chapter title Lorem Ipsum.\n"
-},
-{
-	"uri": "https://Pawsey-Internships.github.io/diversity_inclusion_workshop/activity-1/summary/",
-	"title": "Summary",
-	"tags": [],
-	"description": "",
-	"content": "Chapter X Some Chapter title Lorem Ipsum.\n"
-},
-{
 	"uri": "https://Pawsey-Internships.github.io/diversity_inclusion_workshop/introduction/participation_requests/",
 	"title": "Approaching the workshop",
 	"tags": [],
@@ -26,6 +12,13 @@
 	"tags": [],
 	"description": "",
 	"content": "Chapter 1 Setting the scene Our approach to the workshop What do we mean by Bias, Diversity \u0026amp; Inclusion? How do these appear in our work and in our workplace? "
+},
+{
+	"uri": "https://Pawsey-Internships.github.io/diversity_inclusion_workshop/activity-2/activity_outline/",
+	"title": "Activity_outline",
+	"tags": [],
+	"description": "",
+	"content": "Internship from above Take a moment to fill in a row of the spreadsheet below with your details. This exercise is entirely anonymous, and it represents the kind of demographic information collected in job applications and/or workplace inductions.\n"
 },
 {
 	"uri": "https://Pawsey-Internships.github.io/diversity_inclusion_workshop/activity-1/activity_outline/",
@@ -49,6 +42,13 @@
 	"content": "What do we mean? Bias is a prejudice towards or against a specific group.\nDiversity can refer to the mix of people in an organisation, or datapoints in your sample.\nInclusion is the outcome of behaviours promiting an environment where diverse people (or data points) can thrive. In an organisation, maximising inclusion also improves overall performance and wellbeing. Insert source?\n"
 },
 {
+	"uri": "https://Pawsey-Internships.github.io/diversity_inclusion_workshop/activity-2/",
+	"title": "Internship from above",
+	"tags": [],
+	"description": "",
+	"content": "Activity 2 Internship from above Now we\u0026rsquo;re going to think a bit more about diversity by taking a look at our own Internship cohort from a different persepective, with a bird\u0026rsquo;s eye view if you like.\n"
+},
+{
 	"uri": "https://Pawsey-Internships.github.io/diversity_inclusion_workshop/activity-1/activity_results/",
 	"title": "Activity Results",
 	"tags": [],
@@ -68,6 +68,13 @@
 	"tags": [],
 	"description": "",
 	"content": "Workshop Overview Include a summary here once we have a clear idea of workshop structure.\nAll human interactions and observations are unavoidably biased. Biases can be helpful or unhelpful, but we cannot make that judgement without first identifying and understanding them. The more diversity you see around you the more your horizons expand in your work and your understanding "
+},
+{
+	"uri": "https://Pawsey-Internships.github.io/diversity_inclusion_workshop/activity-1/summary/",
+	"title": "Summary",
+	"tags": [],
+	"description": "",
+	"content": "Takeaways from this activity Fill this in\n"
 },
 {
 	"uri": "https://Pawsey-Internships.github.io/diversity_inclusion_workshop/",

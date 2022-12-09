@@ -8,15 +8,6 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 08 Dec 2022 10:54:28 +1100</lastBuildDate><atom:link href="https://Pawsey-Internships.github.io/diversity_inclusion_workshop/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Summary</title>
-      <link>https://Pawsey-Internships.github.io/diversity_inclusion_workshop/activity-1/summary/</link>
-      <pubDate>Fri, 09 Dec 2022 17:22:45 +1100</pubDate>
-      
-      <guid>https://Pawsey-Internships.github.io/diversity_inclusion_workshop/activity-1/summary/</guid>
-      <description>Chapter X Some Chapter title Lorem Ipsum.</description>
-    </item>
-    
-    <item>
       <title>Approaching the workshop</title>
       <link>https://Pawsey-Internships.github.io/diversity_inclusion_workshop/introduction/participation_requests/</link>
       <pubDate>Thu, 08 Dec 2022 17:06:34 +1100</pubDate>
@@ -24,6 +15,15 @@
       <guid>https://Pawsey-Internships.github.io/diversity_inclusion_workshop/introduction/participation_requests/</guid>
       <description>Approaching the workshop: some requests As we move through the workshop today, we ask that everyone:
 Be ready to participate. Use welcoming and inclusive language. Be respectful of different viewpoints and experiences. Gracefully accept constructive criticism. If you feel like you need support at any time during the workshop, mesasge one of the mentors.</description>
+    </item>
+    
+    <item>
+      <title>Activity_outline</title>
+      <link>https://Pawsey-Internships.github.io/diversity_inclusion_workshop/activity-2/activity_outline/</link>
+      <pubDate>Fri, 09 Dec 2022 18:27:53 +1100</pubDate>
+      
+      <guid>https://Pawsey-Internships.github.io/diversity_inclusion_workshop/activity-2/activity_outline/</guid>
+      <description>Internship from above Take a moment to fill in a row of the spreadsheet below with your details. This exercise is entirely anonymous, and it represents the kind of demographic information collected in job applications and/or workplace inductions.</description>
     </item>
     
     <item>
@@ -75,6 +75,15 @@ The day-to-day work of science, engineering and other ‘technical’ fields can
       <guid>https://Pawsey-Internships.github.io/diversity_inclusion_workshop/introduction/workshop-takeaways/</guid>
       <description>Workshop Overview Include a summary here once we have a clear idea of workshop structure.
 All human interactions and observations are unavoidably biased. Biases can be helpful or unhelpful, but we cannot make that judgement without first identifying and understanding them. The more diversity you see around you the more your horizons expand in your work and your understanding </description>
+    </item>
+    
+    <item>
+      <title>Summary</title>
+      <link>https://Pawsey-Internships.github.io/diversity_inclusion_workshop/activity-1/summary/</link>
+      <pubDate>Fri, 09 Dec 2022 17:22:45 +1100</pubDate>
+      
+      <guid>https://Pawsey-Internships.github.io/diversity_inclusion_workshop/activity-1/summary/</guid>
+      <description>Takeaways from this activity Fill this in</description>
     </item>
     
   </channel>

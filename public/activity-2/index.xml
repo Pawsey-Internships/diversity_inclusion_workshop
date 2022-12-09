@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Activity 2 on Diversity &amp; Inclusion in Science (better title TBD)</title>
+    <title>Internship from above on Diversity &amp; Inclusion in Science (better title TBD)</title>
     <link>https://Pawsey-Internships.github.io/diversity_inclusion_workshop/activity-2/</link>
-    <description>Recent content in Activity 2 on Diversity &amp; Inclusion in Science (better title TBD)</description>
+    <description>Recent content in Internship from above on Diversity &amp; Inclusion in Science (better title TBD)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 09 Dec 2022 17:22:54 +1100</lastBuildDate><atom:link href="https://Pawsey-Internships.github.io/diversity_inclusion_workshop/activity-2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Activity_outline</title>
+      <link>https://Pawsey-Internships.github.io/diversity_inclusion_workshop/activity-2/activity_outline/</link>
+      <pubDate>Fri, 09 Dec 2022 18:27:53 +1100</pubDate>
+      
+      <guid>https://Pawsey-Internships.github.io/diversity_inclusion_workshop/activity-2/activity_outline/</guid>
+      <description>Internship from above Take a moment to fill in a row of the spreadsheet below with your details. This exercise is entirely anonymous, and it represents the kind of demographic information collected in job applications and/or workplace inductions.</description>
+    </item>
+    
   </channel>
 </rss>

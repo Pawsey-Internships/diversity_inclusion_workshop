@@ -1,13 +1,11 @@
 +++
 title = "Summary"
 date = 2022-12-09T17:22:45+11:00
-weight = 5
+weight = 8
 chapter = true
-pre = "<b>X. </b>"
+pre = "<b>c. </b>"
 +++
 
-### Chapter X
+### Takeaways from this activity
 
-# Some Chapter title
-
-Lorem Ipsum.
+Fill this in
