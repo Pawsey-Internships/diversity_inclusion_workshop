@@ -12,4 +12,5 @@ pre = "<b>3. </b>"
 
 Now we're going to think a bit more about diversity by taking a look at 
 our own Internship cohort from a different persepective, with a bird's eye
-view if you like.
+view if you like. As part of this we're going to see how we can use some 
+simple data science skills to begin to quantify what 'standing out' looks like.

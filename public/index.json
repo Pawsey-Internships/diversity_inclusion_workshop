@@ -42,11 +42,18 @@
 	"content": "What do we mean? Bias is a prejudice towards or against a specific group.\nDiversity can refer to the mix of people in an organisation, or datapoints in your sample.\nInclusion is the outcome of behaviours promiting an environment where diverse people (or data points) can thrive. In an organisation, maximising inclusion also improves overall performance and wellbeing. Insert source?\n"
 },
 {
+	"uri": "https://Pawsey-Internships.github.io/diversity_inclusion_workshop/activity-2/activity_walkthrough/",
+	"title": "Activity walkthrough",
+	"tags": [],
+	"description": "",
+	"content": "Using data science on ourselves Here I plan to translate the code from the colab note book I guess?\n"
+},
+{
 	"uri": "https://Pawsey-Internships.github.io/diversity_inclusion_workshop/activity-2/",
 	"title": "Internship from above",
 	"tags": [],
 	"description": "",
-	"content": "Activity 2 Internship from above Now we\u0026rsquo;re going to think a bit more about diversity by taking a look at our own Internship cohort from a different persepective, with a bird\u0026rsquo;s eye view if you like.\n"
+	"content": "Activity 2 Internship from above Now we\u0026rsquo;re going to think a bit more about diversity by taking a look at our own Internship cohort from a different persepective, with a bird\u0026rsquo;s eye view if you like. As part of this we\u0026rsquo;re going to see how we can use some simple data science skills to begin to quantify what \u0026lsquo;standing out\u0026rsquo; looks like.\n"
 },
 {
 	"uri": "https://Pawsey-Internships.github.io/diversity_inclusion_workshop/activity-1/activity_results/",
@@ -67,7 +74,14 @@
 	"title": "Workshop Overview",
 	"tags": [],
 	"description": "",
-	"content": "Workshop Overview Include a summary here once we have a clear idea of workshop structure.\nAll human interactions and observations are unavoidably biased. Biases can be helpful or unhelpful, but we cannot make that judgement without first identifying and understanding them. The more diversity you see around you the more your horizons expand in your work and your understanding "
+	"content": "Workshop Overview Include a summary here once we have a clear idea of workshop structure.\nAll human interactions and observations are unavoidably biased - including how we work in science. Biases can be helpful or unhelpful, but we cannot make that judgement without first identifying and understanding them. The more diversity you see around you the more your horizons expand in your work and your understanding Being open to tools and types of working allows us to identify these biases and begin to correct for unhelpful ones. "
+},
+{
+	"uri": "https://Pawsey-Internships.github.io/diversity_inclusion_workshop/activity-2/wummary/",
+	"title": "Summary",
+	"tags": [],
+	"description": "",
+	"content": "Activity Summary Extra content in here\n"
 },
 {
 	"uri": "https://Pawsey-Internships.github.io/diversity_inclusion_workshop/activity-1/summary/",
