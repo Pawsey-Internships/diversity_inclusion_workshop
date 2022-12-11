@@ -11,4 +11,5 @@ pre = "<b>4. </b>"
 # Working with biases
 
 Now we're going to take a look at some data from a series of academic conferences,
-and again use our data science skills to explore the demographics of attendees.
+and again use our data science skills to explore the demographics of attendees and 
+how these change over time.
