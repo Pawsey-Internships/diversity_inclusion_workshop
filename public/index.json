@@ -1,5 +1,12 @@
 [
 {
+	"uri": "https://Pawsey-Internships.github.io/diversity_inclusion_workshop/activity-3/activity_outline/",
+	"title": "Activity outline",
+	"tags": [],
+	"description": "",
+	"content": "Working with biases We\u0026rsquo;ve prepared some conferene data for you to explore. It\n"
+},
+{
 	"uri": "https://Pawsey-Internships.github.io/diversity_inclusion_workshop/introduction/participation_requests/",
 	"title": "Approaching the workshop",
 	"tags": [],
@@ -74,14 +81,14 @@
 	"title": "Workshop Overview",
 	"tags": [],
 	"description": "",
-	"content": "Workshop Overview Include a summary here once we have a clear idea of workshop structure.\nAll human interactions and observations are unavoidably biased - including how we work in science. Biases can be helpful or unhelpful, but we cannot make that judgement without first identifying and understanding them. The more diversity you see around you the more your horizons expand in your work and your understanding Being open to tools and types of working allows us to identify these biases and begin to correct for unhelpful ones. "
+	"content": "Workshop Overview Include a summary here once we have a clear idea of workshop structure.\nAll human interactions and observations are unavoidably biased - including how we work in science. Biases can be helpful or unhelpful, but we cannot make that judgement without first identifying and understanding them. The more diversity you see around you the more your horizons expand in your work and your understanding Being open to new tools and types of working allows us to identify workplace biases and begin to correct for unhelpful ones. "
 },
 {
 	"uri": "https://Pawsey-Internships.github.io/diversity_inclusion_workshop/activity-3/",
 	"title": "Working with biases",
 	"tags": [],
 	"description": "",
-	"content": "Chapter 4 Working with biases Now we\u0026rsquo;re going to take a look at some data from a series of academic conferences, and again use our data science skills to explore the demographics of attendees.\n"
+	"content": "Chapter 4 Working with biases Now we\u0026rsquo;re going to take a look at some data from a series of academic conferences, and again use our data science skills to explore the demographics of attendees and how these change over time.\n"
 },
 {
 	"uri": "https://Pawsey-Internships.github.io/diversity_inclusion_workshop/activity-2/wummary/",
@@ -96,6 +103,13 @@
 	"tags": [],
 	"description": "",
 	"content": "Takeaways from this activity Fill this in\n"
+},
+{
+	"uri": "https://Pawsey-Internships.github.io/diversity_inclusion_workshop/further-reading/",
+	"title": "Further Reading",
+	"tags": [],
+	"description": "",
+	"content": "Appendix Futher Reading Data\nSkiles, M., Yang, E., Reshef, O. et al. Conference demographics and footprint changed by virtual platforms. Nat Sustain 5, 149–156 (2022). https://doi.org/10.1038/s41893-021-00823-2\nAdditonal papers on Remote work\nSarvenaz Sarabipour, Research Culture: Virtual conferences raise standards for accessibility and interactions eLife 9, e62668 (2020). https://doi.org/10.7554/eLife.62668\nRoos, G., Oláh, J., Ingle, R., Kobayashi, R., Feldt, M., Online conferences – Towards a new (virtual) reality, Computational and Theoretical Chemistry 1189, 112975 (2020). https://doi.org/10.1016/j.comptc.2020.112975\nMoss, V.A., Adcock, M., Hotan, A.W. et al. Forging a path to a better normal for conferences and collaboration. Nat Astron 5, 213–216 (2021). https://doi.org/10.1038/s41550-021-01325-z\n"
 },
 {
 	"uri": "https://Pawsey-Internships.github.io/diversity_inclusion_workshop/",
