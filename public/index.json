@@ -4,7 +4,7 @@
 	"title": "Activity outline",
 	"tags": [],
 	"description": "",
-	"content": "Working with biases We\u0026rsquo;ve prepared some conference data for you to explore. It contains anonymised details of attendees from 6 consecutive annual conferences for a large, American scientific body.\nIt is available on this public repo, and we\u0026rsquo;ve got some Colab notebooks setup for you here, here and here where you can begin to explore different aspects of conference attendance.\nWorking in groups, we want you to use some of the discussions we\u0026rsquo;ve had so far to guide your analysis of this dataset. Some things you could be thinking about are:\nNumber of attendees over time Abstracts submitted by attendees belonging to different demographics Home location of attendees Gender of attendees Career stage of attendees "
+	"content": "Working with biases We\u0026rsquo;ve prepared some conference data for you to explore. It contains anonymised details of attendees from 6 consecutive annual conferences for a large, American scientific body.\nIt is available on this public repo, and we\u0026rsquo;ve got some Colab notebooks setup for you here, here and here where you can begin to explore different aspects of conference attendance.\nWorking in groups, we want you to use some of the discussions we\u0026rsquo;ve had so far to guide your analysis of this dataset. Some things you could be thinking about are:\nNumber of attendees over time Abstracts submitted by attendees belonging to different demographics Home location of attendees Gender of attendees Career stage of attendees Do you notice any particular trends over time? Don\u0026rsquo;t forget that a picture tells a thousands words - so try to capture what you find in useful graphs. They don\u0026rsquo;t have to be complex to be effective!\n"
 },
 {
 	"uri": "https://Pawsey-Internships.github.io/diversity_inclusion_workshop/introduction/participation_requests/",
@@ -47,6 +47,13 @@
 	"tags": [],
 	"description": "",
 	"content": "What do we mean? Bias is a prejudice towards or against a specific group.\nDiversity can refer to the mix of people in an organisation, or datapoints in your sample.\nInclusion is the outcome of behaviours promiting an environment where diverse people (or data points) can thrive. In an organisation, maximising inclusion also improves overall performance and wellbeing. Insert source?\n"
+},
+{
+	"uri": "https://Pawsey-Internships.github.io/diversity_inclusion_workshop/activity-3/summary/",
+	"title": "Summary",
+	"tags": [],
+	"description": "",
+	"content": "Summary Now we\u0026rsquo;re going to take some time to share what we\u0026rsquo;ve found from this data. Nominate one speaker (or more!) for your group to present your findings.\n"
 },
 {
 	"uri": "https://Pawsey-Internships.github.io/diversity_inclusion_workshop/activity-2/activity_walkthrough/",

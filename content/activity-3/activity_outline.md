@@ -24,3 +24,7 @@ of this dataset. Some things you could be thinking about are:
 * Home location of attendees
 * Gender of attendees
 * Career stage of attendees
+* *Do you notice any particular trends over time?*
+
+Don't forget that a picture tells a thousands words - so try to capture what you find in useful
+graphs. They don't have to be complex to be effective!
