@@ -13,7 +13,9 @@
       <pubDate>Mon, 12 Dec 2022 07:47:45 +1100</pubDate>
       
       <guid>https://Pawsey-Internships.github.io/diversity_inclusion_workshop/activity-3/activity_outline/</guid>
-      <description>Working with biases We&amp;rsquo;ve prepared some conferene data for you to explore. It</description>
+      <description>Working with biases We&amp;rsquo;ve prepared some conference data for you to explore. It contains anonymised details of attendees from 6 consecutive annual conferences for a large, American scientific body.
+It is available on this public repo, and we&amp;rsquo;ve got some Colab notebooks setup for you here, here and here where you can begin to explore different aspects of conference attendance.
+Working in groups, we want you to use some of the discussions we&amp;rsquo;ve had so far to guide your analysis of this dataset.</description>
     </item>
     
     <item>

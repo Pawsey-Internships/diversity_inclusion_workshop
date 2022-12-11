@@ -4,7 +4,7 @@
 	"title": "Activity outline",
 	"tags": [],
 	"description": "",
-	"content": "Working with biases We\u0026rsquo;ve prepared some conferene data for you to explore. It\n"
+	"content": "Working with biases We\u0026rsquo;ve prepared some conference data for you to explore. It contains anonymised details of attendees from 6 consecutive annual conferences for a large, American scientific body.\nIt is available on this public repo, and we\u0026rsquo;ve got some Colab notebooks setup for you here, here and here where you can begin to explore different aspects of conference attendance.\nWorking in groups, we want you to use some of the discussions we\u0026rsquo;ve had so far to guide your analysis of this dataset. Some things you could be thinking about are:\nNumber of attendees over time Abstracts submitted by attendees belonging to different demographics Home location of attendees Gender of attendees Career stage of attendees "
 },
 {
 	"uri": "https://Pawsey-Internships.github.io/diversity_inclusion_workshop/introduction/participation_requests/",
