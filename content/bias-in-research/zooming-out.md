@@ -6,12 +6,12 @@ chapter: false
 pre: "<b>c. </b>"
 ---
 
-> **Machine learning depends on complex systems that respond flexiably and, oftentimes, surprisingly to their 'environment'.**
+> **Machine learning depends on complex systems that respond flexiably and, oftentimes, surprisingly.**
 
 * It's tempting to think of artificial intelligence as forward looking, but in reality it's often beholden to our historical biases and mistakes.
 * With the above in mind, let's make a deeper claim:
 
-> **~~Machine learning~~ Research depends ~~complex systems~~ human beings that respond flexiably and, oftentimes, surprisingly to their 'environment'.**
+> **~~Machine learning~~ Research depends ~~complex systems~~ human beings that respond flexiably and, oftentimes, surprisingly.**
     
 * As researchers we are nessecarily focussed on a small peice of a much bigger picture.
 * Many resarchers pride themseleves on being rational and impartial, but it is always challenging to see beyond our own experence.
