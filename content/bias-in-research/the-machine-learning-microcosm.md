@@ -6,8 +6,6 @@ chapter: false
 pre: "<b>a. </b>"
 ---
 
-## The Machine Learning Microcosm
-
 * The impact of helpful and helpful bias is perhaps most obvious in Machine learning. To arrive at a model we:
 	1. Start with an (ideally) unbiased system. 
 	2. Bias, the system, according to an input representative training data, sets and carefully chosen training incentives.

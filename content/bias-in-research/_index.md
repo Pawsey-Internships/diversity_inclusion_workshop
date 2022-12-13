@@ -6,7 +6,7 @@ chapter = true
 pre = "<b>3. </b>"
 +++
 
-## Bias in Research
+# Bias in Research
 
 * Colloquially, bias understood as an unreasonable preference or dislike based on personal opinion.
 * However, bias can also be dispassionate - not influenced by strong emotion, and instead arising through rational and impartial thought.

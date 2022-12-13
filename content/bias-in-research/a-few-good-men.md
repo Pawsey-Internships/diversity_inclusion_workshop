@@ -6,8 +6,6 @@ chapter: false
 pre: "<b>c. </b>"
 ---
 
-## A Few Good Men
-
 * Amazon's machine learning specialists uncovered a big problem; their new recruiting engine did not like women.
 * They wanted the tool to identify the top 5 applicants from a pool of 100 resumes.
 * A manual review of its suggestions found that the model had developed a preference for male applicants.
