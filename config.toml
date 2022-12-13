@@ -1,4 +1,4 @@
-baseURL = "https://Pawsey-Internships.github.io/diversity_inclusion_workshop" 
+baseURL = "https://Pawsey-Internships.github.io/diversity_inclusion_workshop/" 
 languageCode = 'en-us'
 title = 'Diversity & Inclusion in Science (better title TBD)'
 theme = "hugo-theme-learn"
