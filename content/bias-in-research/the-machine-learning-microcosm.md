@@ -1,9 +1,9 @@
 ---
-title = "The Machine Learning Microcosm"
-date = 2022-12-09T11:34:05+11:00
-weight = 1
-chapter = false
-pre = "<b>a. </b>"
+title: "The Machine Learning Microcosm"
+date: 2022-12-09T11:34:05+11:00
+weight: 1
+chapter: false
+pre: "<b>a. </b>"
 ---
 
 * The impact of helpful and helpful bias is perhaps most obvious in Machine learning. To arrive at a model we:

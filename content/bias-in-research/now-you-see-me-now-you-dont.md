@@ -1,9 +1,9 @@
 ---
-title = "Now You See Me, Now You Don't"
-date = 2022-12-09T11:34:05+11:00
-weight = 3
-chapter = false
-pre = "<b>c. </b>"
+title: "Now You See Me, Now You Don't"
+date: 2022-12-09T11:34:05+11:00
+weight: 2
+chapter: false
+pre: "<b>b. </b>"
 ---
 
 * A major U.S. technology company developed a facial-recognition system with a claimed accuracy of 97%.
