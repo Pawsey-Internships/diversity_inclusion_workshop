@@ -1,7 +1,7 @@
 +++
 title = "Working with biases"
 date = 2022-12-11T20:41:57+11:00
-weight = 8
+weight = 4
 chapter = true
 pre = "<b>4. </b>"
 +++

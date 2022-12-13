@@ -1,9 +1,9 @@
 +++
 title = "Internship from above"
 date = 2022-12-09T17:22:54+11:00
-weight = 7
+weight = 4
 chapter = true
-pre = "<b>3. </b>"
+pre = "<b>4. </b>"
 +++
 
 ### Activity 2

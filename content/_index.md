@@ -1,5 +1,6 @@
 ---
 title: "Diversity & Inclusion Workshop (title TBD)"
+weight: 1
 date: 2022-12-08T10:54:28+11:00
 draft: false
 ---
