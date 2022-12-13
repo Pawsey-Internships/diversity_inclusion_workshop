@@ -5,6 +5,9 @@ weight: 4
 chapter: false
 pre: "<b>c. </b>"
 ---
+
+## Zooming Out
+
 * Machine learning depends on complex systems that respond flexiably and, oftentimes, surprisingly to their 'environment'.
 * It's tempting to think of artificial intelligence as forward looking, but in reality it's often beholden to our historical biases and mistakes.
 

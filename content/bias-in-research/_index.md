@@ -1,10 +1,12 @@
 +++
-title = "Bias and Research"
+title = "Bias in Research"
 date = 2022-12-09T11:31:16+11:00
 weight = 3
 chapter = true
 pre = "<b>3. </b>"
 +++
+
+## Bias in Research
 
 * Colloquially, bias understood as an unreasonable preference or dislike based on personal opinion.
 
