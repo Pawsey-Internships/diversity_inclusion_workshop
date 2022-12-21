@@ -6,6 +6,7 @@ chapter = true
 pre = "<b>3. </b>"
 +++
 
+### Case Studies
 # Bias in Research
 
 * Colloquially, bias understood as an unreasonable preference or dislike based on personal opinion.

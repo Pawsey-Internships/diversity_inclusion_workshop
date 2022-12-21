@@ -6,7 +6,7 @@ chapter = true
 pre = "<b>5. </b>"
 +++
 
-### Chapter 4
+### Activity 3
 
 # Working with biases
 
