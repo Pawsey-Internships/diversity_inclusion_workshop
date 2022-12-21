@@ -14,4 +14,4 @@ pre = "<b>b. </b>"
 
 **Inclusion** is the outcome of behaviours promiting an environment where diverse people (or
 data points) can thrive. In an organisation, maximising inclusion also improves overall 
-*performance* and *wellbeing*. **Insert source?**
+*performance* and *wellbeing*. (Shore et al. 2011)
