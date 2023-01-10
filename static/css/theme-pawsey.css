@@ -158,3 +158,18 @@ a:hover {
 #homelinks a:hover {
   color: var(--MENU-HOME-LINK-HOVERED-color);
 }
+
+.column45 {
+  display: table-cell;
+  float: center;
+  width: 48%;
+  padding: 5px;
+  vertical-align: bottom;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
