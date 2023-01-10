@@ -8,4 +8,8 @@ pre = "<b>c. </b>"
 
 ### Takeaways from this activity
 
-Fill this in
+* Qualities that make a person diverse can be helpful and helpful.
+* Most of the time they have little to do with the task at hand.
+* Neverthless, we can't help but notice them in ourselves and others.
+
+**Image Here**
