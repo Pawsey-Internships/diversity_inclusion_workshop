@@ -6,7 +6,6 @@ chapter = true
 pre = "<b>1. </b>"
 +++
 
-
 # Setting the scene
 
 As we move through the workshop today, we ask that everyone:

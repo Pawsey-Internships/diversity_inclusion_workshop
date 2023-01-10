@@ -6,7 +6,7 @@ chapter = true
 pre = "<b>b. </b>"
 +++
 
-### Summary
+## Summary
 
 Now we're going to take some time to share what we've found from this data. Nominate
 one speaker (or more!) for your group to present your findings. 

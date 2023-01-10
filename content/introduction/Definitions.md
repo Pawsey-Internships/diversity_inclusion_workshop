@@ -6,7 +6,7 @@ chapter = true
 pre = "<b>a. </b>"
 +++
 
-### What do we mean?
+## What do we mean?
 
 **Bias** is a prejudice towards or against a specific group.
 

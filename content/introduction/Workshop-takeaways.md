@@ -6,7 +6,7 @@ chapter = true
 pre = "<b>c. </b>"
 +++
 
-### Workshop Overview
+## Workshop Overview
 
 1. All human interactions and observations are unavoidably biased - including how we work in science.
 2. Biases can be helpful or unhelpful, but we cannot make that judgement

@@ -6,7 +6,7 @@ chapter = true
 pre = "<b>a. </b>"
 +++
 
-### Standing Up, Standing Out
+## Standing Up, Standing Out
 
 With your table, let's take 10 minutes to explore:
 

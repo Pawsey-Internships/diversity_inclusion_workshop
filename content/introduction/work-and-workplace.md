@@ -6,7 +6,7 @@ chapter = true
 pre = "<b>b. </b>"
 +++
 
-### Our work and workplace
+## Our work and workplace
 
 
 In the workplace, inclusion means:

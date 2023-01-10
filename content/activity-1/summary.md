@@ -6,7 +6,7 @@ chapter = true
 pre = "<b>c. </b>"
 +++
 
-### Takeaways from this activity
+## Summary
 
 * Qualities that make a person diverse can be helpful and unhelpful.
 * Most of the time these qualities have little to do with the task at hand.

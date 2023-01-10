@@ -6,7 +6,7 @@ chapter = true
 pre = "<b>4. </b>"
 +++
 
-### Activity 2
+### Activity Two
 
 # Internship from above
 
