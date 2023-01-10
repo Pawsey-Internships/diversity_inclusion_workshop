@@ -1,16 +1,19 @@
----
-title: "The Biased Mind"
-weight: 1
-date: 2022-12-08T10:54:28+11:00
-draft: false
----
++++
+title = "Setting the scene"
+date = 2022-12-08T10:42:40+11:00
+weight = 1
+chapter = true
+pre = "<b>1. </b>"
++++
 
-## The Biased Mind: Diversity and Inclusion in STEM
 
-Welcome to the latest event in our internship workshop series! Over the next 90 minutes we'll be thinking about the ways in which 
-biases both good and bad effect all aspects of our science, from the people we work with to the data we analyse. We'll be working
-through the pages on the left, so follow along as we walk through all the ways in which our science can (and should!) be diverse.
+# Setting the scene
 
-Things to note:
-* The workshop will be interactive; we'll be discussing, voting and even doing a little bit of coding!
-* Only participate in as much as you are comfortable with. Calling out is encouraged but don't feel like you have to speak in front of everyone
+As we move through the workshop today, we ask that everyone:
+* Be ready to participate.
+* Use welcoming and inclusive language.
+* Be respectful of different viewpoints and experiences.
+* Gracefully accept constructive criticism.
+
+If you feel like you need support at any time during the workshop, 
+messasge one of the mentors.

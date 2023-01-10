@@ -6,6 +6,10 @@ chapter = true
 pre = "<b>c. </b>"
 +++
 
-### Activity Summary
+## Activity Summary
 
-Extra content in here
+* It's difficult to identify independant attributes, even for a small group.
+* To understand systems we rely on simple measures that can only ever convey a small slice of a more complex story. 
+* The end result of any analysis almost always an almagamation of different 
+
+**image of many scatter plots**

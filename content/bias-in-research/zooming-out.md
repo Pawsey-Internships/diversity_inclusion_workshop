@@ -2,9 +2,11 @@
 title: "Zooming Out"
 date: 2022-12-09T11:34:05+11:00
 weight: 4
-chapter: false
-pre: "<b>c. </b>"
+chapter: true
+pre: "<b>d. </b>"
 ---
+
+## Zooming Out
 
 > **Machine learning depends on complex systems that respond flexiably and, oftentimes, surprisingly.**
 

@@ -8,4 +8,4 @@ pre = "<b>b. </b>"
 
 ## Using data science on ourselves
 
-Here I plan to translate the code from the colab note book I guess?
+**Link to the Workbook - EM**
