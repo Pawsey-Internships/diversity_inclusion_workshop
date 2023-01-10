@@ -1,5 +1,5 @@
 +++
-title = "Internship from above"
+title = "Internship From Above"
 date = 2022-12-09T17:22:54+11:00
 weight = 4
 chapter = true
@@ -8,7 +8,7 @@ pre = "<b>4. </b>"
 
 ### Activity Two
 
-# Internship from above
+# Internship From Above
 
 Now we're going to think a bit more about diversity by taking a look at 
 our own Internship cohort from a different persepective, with a bird's eye

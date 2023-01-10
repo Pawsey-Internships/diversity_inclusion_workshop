@@ -1,12 +1,12 @@
 +++
-title = "Activity outline"
+title = "Activity Outline"
 date = 2022-12-12T07:47:45+11:00
 weight = 5
 chapter = true
 pre = "<b>a. </b>"
 +++
 
-## Working with biases
+## Working With Biases
 
 We've prepared some conference data for you to explore. It contains anonymised details of attendees
 from 6 consecutive annual conferences for a large, American scientific body.

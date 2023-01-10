@@ -7,6 +7,6 @@ pre = "<b>2. </b>"
 +++
 
 ### Activity One:
-#  Standing up, standing out
+#  Standing up, Standing Out
 
 ![image](images/crowd-image.png)

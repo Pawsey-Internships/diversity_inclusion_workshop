@@ -1,12 +1,12 @@
 +++
-title = "Activity outline"
+title = "Activity Outline"
 date = 2022-12-09T18:27:53+11:00
 weight = 6
 chapter = true
 pre = "<b>a. </b>"
 +++
 
-## Internship from above
+## Internship From Above
 
 Take a moment to fill in a row of the spreadsheet below with your details (you can edit the 
 spreadsheet [here](https://docs.google.com/spreadsheets/d/18EhC0LUg6cNsVgcPlKGu7Fksj103xQPP1ddDkvFOcJw/edit?usp=sharing)). This exercise is 

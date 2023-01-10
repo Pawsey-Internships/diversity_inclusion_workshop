@@ -1,5 +1,5 @@
 +++
-title = "Bias in Research"
+title = "Bias In Research"
 date = 2022-12-09T11:31:16+11:00
 weight = 3
 chapter = true
@@ -7,7 +7,7 @@ pre = "<b>3. </b>"
 +++
 
 ### Case Studies
-# Bias in Research
+# Bias In Research
 
 * Colloquially, bias understood as an unreasonable preference or dislike based on personal opinion.
 * However, bias can also be dispassionate - not influenced by strong emotion, and instead arising through rational and impartial thought.
