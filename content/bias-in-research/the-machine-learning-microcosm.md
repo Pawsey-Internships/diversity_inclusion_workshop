@@ -12,10 +12,11 @@ pre: "<b>a. </b>"
 	1. Start with an (ideally) unbiased system. 
 	2. Bias, the system, according to an input representative training data, sets and carefully chosen training incentives.
 	3. Test the model's prediction against a representative validation data set.
-	4. Repeat steps 2 and 3 until the model can produce accurate and informative predictions.
+	4. Repeat steps 2 and 3 until the model can produce accurate and informative predictions.[^a]
 
-**Image from Slides?**
-
+![image](images/ai-workflow-diagram.png)
 
 * The choice of model, data and training incentives relies on human-made decisions.
 * Whether historical, experimental or simulated, training and validation data is influenced by the decisions of an often unknowable number of strangers.
+
+[^a]:[Australian Human Rights Commission](https://humanrights.gov.au/our-work/rights-and-freedoms/publications/using-artificial-intelligence-make-decisions-addressing)

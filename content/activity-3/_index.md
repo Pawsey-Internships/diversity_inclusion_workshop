@@ -14,4 +14,4 @@ Now we're going to take a look at some data from a series of academic conference
 and again use our data science skills to explore the demographics of attendees and 
 how these change over time.
 
-**Image Here**
+![image](images/people-crowd.jpeg)

@@ -11,8 +11,8 @@ pre = "<b>a. </b>"
 We've prepared some conference data for you to explore. It contains anonymised details of attendees
 from 6 consecutive annual conferences for a large, American scientific body.
 
-It is available on [this public repo](https://github.com/Pawsey-Internships/biases-workshop-data),
-and we've got some Colab notebooks setup for you [here](https://colab.research.google.com/drive/1zCJGvP8XzbXb9BMf9SMmC2TqEeBSEqRF?usp=sharing),
+It is available in [this public repo](https://github.com/Pawsey-Internships/biases-workshop-data),
+and we've got some Colab notebooks setup for you [here](https://colab.research.google.com/drive/1zCJGvP8XzbXb9BMf9SMmC2TqEeBSEqRF?usp=share_link),
 [here](https://colab.research.google.com/drive/1qoD1bmT_Qm7-kOV55rzcp56ylJzH83C-?usp=share_link) and 
 [here](https://colab.research.google.com/drive/167KxbFwyb5GGaAsWn5OJsgUfanT9wGfs?usp=share_link) where you can
 begin to explore different aspects of conference attendance.

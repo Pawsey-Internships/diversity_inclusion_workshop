@@ -14,6 +14,6 @@ As we move through the workshop today, we ask that everyone:
 * Use welcoming and inclusive language.
 * Be respectful of different viewpoints and experiences.
 * Gracefully accept constructive criticism.
-
+x`
 If you feel like you need support at any time during the workshop, 
 messasge one of the mentors.

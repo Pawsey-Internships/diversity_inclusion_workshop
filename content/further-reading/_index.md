@@ -10,9 +10,13 @@ pre = "<b></b>"
 
 # Futher Reading
 
-**Data**
+**Data and ML**
+
+Dustin, J. (2018) “Amazon scraps secret AI recruiting tool that showed bias against women,” Reuters, 11 October. Available at: https://www.reuters.com/article/us-amazon-com-jobs-automation-insight-idUSKCN1MK08G. 
 
 Skiles, M., Yang, E., Reshef, O. et al. Conference demographics and footprint changed by virtual platforms. *Nature Sustainability* **5**, 149–156 (2022). https://doi.org/10.1038/s41893-021-00823-2
+
+The Australian Human Rights Commission. Using artificial intelligence to make decisions: Addressing the problem of algorithmic bias (2020). Available at: https://humanrights.gov.au/our-work/rights-and-freedoms/publications/using-artificial-intelligence-make-decisions-addressing#OOp2g. 
 
 **Inclusion in the workplace**
 

@@ -9,4 +9,4 @@ pre = "<b>2. </b>"
 ### Activity 1:
 #  Standing up, standing out
 
-**Add Image**
+![image](images/crowd-image.png)
