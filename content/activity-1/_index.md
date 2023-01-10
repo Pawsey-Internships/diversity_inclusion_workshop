@@ -6,5 +6,7 @@ chapter = true
 pre = "<b>2. </b>"
 +++
 
-### Activity 1
+### Activity 1:
 #  Standing up, standing out
+
+**Add Image**

@@ -8,6 +8,8 @@ pre = "<b>a. </b>"
 
 ### Standing Up, Standing Out
 
+**Update Mentimeter Poll**
+
 With your table, let's take 10 minutes to explore:
 
 1. Qualities that you all have in common.
