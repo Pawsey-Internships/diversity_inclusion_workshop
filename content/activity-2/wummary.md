@@ -10,6 +10,6 @@ pre = "<b>c. </b>"
 
 * It's difficult to identify independant attributes, even for a small group.
 * To understand systems we rely on simple measures that can only ever convey a small slice of a more complex story. 
-* The end result of any analysis almost always an almagamation of different 
+* The end result of any analysis is almost always an almagamation of differences.
 
 ![image](images/scatter-matrix-internship.png)
