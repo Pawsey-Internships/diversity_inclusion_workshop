@@ -12,4 +12,4 @@ pre = "<b>c. </b>"
 * To understand systems we rely on simple measures that can only ever convey a small slice of a more complex story. 
 * The end result of any analysis almost always an almagamation of different 
 
-**image of many scatter plots**
+![image](images/scatter-matrix-internship.png)
