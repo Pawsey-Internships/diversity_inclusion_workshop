@@ -9,6 +9,11 @@ pre = "<b>1. </b>"
 
 # Setting the scene
 
-* Our approach to the workshop
-* What do we mean by Bias, Diversity & Inclusion?
-* How do these appear in our work and in our workplace?
+As we move through the workshop today, we ask that everyone:
+* Be ready to participate.
+* Use welcoming and inclusive language.
+* Be respectful of different viewpoints and experiences.
+* Gracefully accept constructive criticism.
+
+If you feel like you need support at any time during the workshop, 
+messasge one of the mentors.
