@@ -1,5 +1,5 @@
 +++
-title = "Setting the scene"
+title = "Setting the Scene"
 date = 2022-12-08T10:42:40+11:00
 weight = 1
 chapter = true
