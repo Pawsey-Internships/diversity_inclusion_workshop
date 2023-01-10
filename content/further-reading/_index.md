@@ -18,6 +18,11 @@ Skiles, M., Yang, E., Reshef, O. et al. Conference demographics and footprint ch
 
 The Australian Human Rights Commission. Using artificial intelligence to make decisions: Addressing the problem of algorithmic bias (2020). Available at: https://humanrights.gov.au/our-work/rights-and-freedoms/publications/using-artificial-intelligence-make-decisions-addressing#OOp2g. 
 
+S0201: SELECTED POPULATION PROFILE ... - Census Bureau Table. https://data.census.gov/table?g=0400000US48&y=2021&d=ACS+1-Year+Estimates+Selected+Population+Profiles&tid=ACSSPP1Y2021.S0201.
+
+Journal, S. New York Demographics and Housing 2020 Decennial Census. Statesman Journal https://data.statesmanjournal.com/census/total-population/not-hispanic-white/new_york/040-36/.
+
+
 **Inclusion in the workplace**
 
 Chen C., Tang, N. Does perceived inclusion matter in the workplace? *Journal of Managerial Psychology* (2018).
