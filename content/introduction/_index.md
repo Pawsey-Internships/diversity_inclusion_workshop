@@ -9,10 +9,6 @@ pre = "<b>1. </b>"
 
 # Setting the scene
 
-### Our approach to the workshop
-
-###	What do we mean by Bias, Diversity & Inclusion?
-
-### How do these appear in our work and in our workplace?
-
-### 
+* Our approach to the workshop
+* What do we mean by Bias, Diversity & Inclusion?
+* How do these appear in our work and in our workplace?

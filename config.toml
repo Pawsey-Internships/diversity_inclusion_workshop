@@ -10,7 +10,7 @@ home = [ "HTML", "RSS", "JSON"]
 # customisation
 [params]
 # Change default color scheme with a variant one. Can be "red", "blue", "green".
-themeVariant = "green"
+themeVariant = "pawsey"
 disableLandingPageButton = true
 
 # Author of the site, will be used in meta information

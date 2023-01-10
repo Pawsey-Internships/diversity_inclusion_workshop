@@ -7,7 +7,7 @@ pre = "<b>a. </b>"
 +++
 
 
-## Approaching the workshop: some requests
+### Approaching the workshop
 
 As we move through the workshop today, we ask that everyone:
 * Be ready to participate.
@@ -16,4 +16,4 @@ As we move through the workshop today, we ask that everyone:
 * Gracefully accept constructive criticism.
 
 If you feel like you need support at any time during the workshop, 
-mesasge one of the mentors.
+messasge one of the mentors.

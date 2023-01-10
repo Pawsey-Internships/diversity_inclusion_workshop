@@ -8,7 +8,7 @@ pre = "<b>a. </b>"
 
 ## Standing up, standing out
 
-Spend 10 minutes discussing the following questions in your groups:
+Let's take 10 minutes to discuss:
 
 1. What do we have in common?
 2. How do we stand out from each other?
