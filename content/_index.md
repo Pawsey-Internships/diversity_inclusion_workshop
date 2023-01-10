@@ -12,5 +12,3 @@ Welcome to the latest event in our internship workshop series! Over the next 90 
 Things to note:
 * The workshop will be interactive; we'll be discussing, voting and even doing a little bit of coding!
 * Only participate in as much as you are comfortable with. Calling out is encouraged but don't feel like you have to speak in front of everyone
-* The live workshop will be recorded for those who cannot make it
-
