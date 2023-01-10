@@ -6,15 +6,12 @@ chapter = true
 pre = "<b>a. </b>"
 +++
 
-## Standing up, standing out
+### Standing Up, Standing Out
 
-Let's take 10 minutes to discuss:
+With your table, let's take 10 minutes to explore:
 
-1. What do we have in common?
-2. How do we stand out from each other?
-3. Is standing out helpful or unhelpful?
-4. Are there any qualities that could be both helpful and unhelpful depending
-on the context?
+1. Qualities that you all have in common.
+2. Qualities that stand you apart.
+3. When these qualities have been helpful and unhelpful.
 
-Nominate a scribe from your group to head to [Mentimeter](https://www.menti.com/al2y9teufpxn) (use the code: **8793 5437**) and 
-add points from your discussion to each slide.
+Nominate a scribe from your group to head to [Mentimeter](https://www.menti.com/al2y9teufpxn) (use the code: **8793 5437**) and add points from your discussion to each slide.
