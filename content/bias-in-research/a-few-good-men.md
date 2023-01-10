@@ -16,4 +16,4 @@ pre: "<b>c. </b>"
 * It favoured applicants who used verbs more commonly used by male engineers, such as "executed" and "captured".
 * The solution? Discarding the automated system entirely.
 
-**Add snapshot from paper**
+![image](images/ai-article.png)
